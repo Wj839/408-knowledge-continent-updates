@@ -1,8 +1,8 @@
 {
-  "version_name": "0.4.0",
-  "version_code": 4,
+  "version_name": "0.5.0",
+  "version_code": 5,
   "apk_url": "https://raw.githubusercontent.com/Wj839/408-knowledge-continent-updates/main/knowledge408.apk",
-  "sha256": "dd3dae48df2a6e4cc16c8dace9ef340d19a35201256b3fe27034574a85a80609",
-  "size_bytes": 13816087,
-  "notes": "新增手机应用内更新页。首次从旧版升级仍需手动安装这一次，之后可在更新页下载新版。"
+  "sha256": "ee424d2a336e1f65d4a451af548df92d5c6b083368be747af29ff2cb89ce3dec",
+  "size_bytes": 29482708,
+  "notes": "四个忍界区域全部开放；各区地图显示完成、解锁和上次冒险位置；战斗角色、怪物与场景增加动态效果，血量移动到任务下方。"
 }
