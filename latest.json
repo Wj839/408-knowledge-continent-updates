@@ -1,0 +1,8 @@
+{
+  "version_name": "0.4.0",
+  "version_code": 4,
+  "apk_url": "https://raw.githubusercontent.com/Wj839/408-knowledge-continent-updates/main/knowledge408.apk",
+  "sha256": "dd3dae48df2a6e4cc16c8dace9ef340d19a35201256b3fe27034574a85a80609",
+  "size_bytes": 13816087,
+  "notes": "新增手机应用内更新页。首次从旧版升级仍需手动安装这一次，之后可在更新页下载新版。"
+}
